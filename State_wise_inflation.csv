@@ -1,0 +1,342 @@
+Year,State,Inflation Rate
+2013,Andhra Pradesh,7.3
+2013,Arunachal Pradesh,8.1
+2013,Assam,7.2
+2013,Bihar,7.5
+2013,Chhattisgarh,7.1
+2013,Delhi,7.8
+2013,Goa,7.8
+2013,Gujarat,8.2
+2013,Haryana,7.9
+2013,Himachal Pradesh,7.3
+2013,Jammu and Kashmir,7.8
+2013,Jharkhand,7.6
+2013,Karnataka,8.4
+2013,Kerala,8.9
+2013,Ladakh,7.8
+2013,Madhya Pradesh,8.1
+2013,Maharashtra,8.5
+2013,Manipur,7.9
+2013,Meghalaya,7.4
+2013,Mizoram,7.8
+2013,Nagaland,8.2
+2013,Odisha,7.6
+2013,Punjab,7.8
+2013,Rajasthan,7.5
+2013,Sikkim,7.9
+2013,Tamil Nadu,8.3
+2013,Telangana,8
+2013,Tripura,7.7
+2013,Uttar Pradesh,7.9
+2013,Uttarakhand,7.4
+2013,West Bengal,8.1
+2014,Andhra Pradesh,7
+2014,Arunachal Pradesh,6.7
+2014,Assam,7.2
+2014,Bihar,7.2
+2014,Chhattisgarh,7.1
+2014,Delhi,6.9
+2014,Goa,6.6
+2014,Gujarat,6.8
+2014,Haryana,6.8
+2014,Himachal Pradesh,7
+2014,Jammu and Kashmir,6.9
+2014,Jharkhand,7
+2014,Karnataka,6.9
+2014,Kerala,6.7
+2014,Ladakh,6.9
+2014,Madhya Pradesh,6.8
+2014,Maharashtra,6.7
+2014,Manipur,6.9
+2014,Meghalaya,7
+2014,Mizoram,6.9
+2014,Nagaland,6.9
+2014,Odisha,6.9
+2014,Punjab,7
+2014,Rajasthan,6.9
+2014,Sikkim,7
+2014,Tamil Nadu,6.8
+2014,Telangana,7
+2014,Tripura,7
+2014,Uttar Pradesh,6.9
+2014,Uttarakhand,6.9
+2014,West Bengal,6.9
+2015,Andhra Pradesh,6
+2015,Arunachal Pradesh,6.2
+2015,Assam,6
+2015,Bihar,6
+2015,Delhi,6
+2015,Chhattisgarh,6
+2015,Goa,6
+2015,Gujarat,6
+2015,Haryana,6
+2015,Himachal Pradesh,6
+2015,Jammu and Kashmir,6
+2015,Jharkhand,6
+2015,Karnataka,6
+2015,Kerala,6
+2015,Ladakh,6
+2015,Madhya Pradesh,6
+2015,Maharashtra,6
+2015,Manipur,6
+2015,Meghalaya,6
+2015,Mizoram,6
+2015,Nagaland,6
+2015,Odisha,6
+2015,Punjab,6
+2015,Rajasthan,6
+2015,Sikkim,6
+2015,Tamil Nadu,6
+2015,Telangana,6
+2015,Tripura,6
+2015,Uttar Pradesh,6
+2015,Uttarakhand,6
+2015,West Bengal,6
+2016,Andhra Pradesh,5.3
+2016,Arunachal Pradesh,5.3
+2016,Assam,5.3
+2016,Bihar,5.3
+2016,Chhattisgarh,5.3
+2016,Delhi,5.3
+2016,Goa,5.3
+2016,Gujarat,5.3
+2016,Haryana,5.3
+2016,Himachal Pradesh,5.3
+2016,Jammu  and Kashmir,5.3
+2016,Jharkhand,5.3
+2016,Karnataka,5.3
+2016,Kerala,5.3
+2016,Ladakh,5.3
+2016,Madhya Pradesh,5.3
+2016,Maharashtra,5.3
+2016,Manipur,5.3
+2016,Meghalaya,5.3
+2016,Mizoram,5.3
+2016,Nagaland,5.3
+2016,Odisha,5.3
+2016,Punjab,5.3
+2016,Rajasthan,5.3
+2016,Sikkim,5.3
+2016,Tamil Nadu,5.3
+2016,Telangana,5.3
+2016,Tripura,5.3
+2016,Uttar Pradesh,5.3
+2016,Uttarakhand,5.3
+2016,West Bengal,5.3
+2017,Andhra Pradesh,4.6
+2017,Arunachal Pradesh,4.6
+2017,Assam,4.6
+2017,Bihar,4.6
+2017,Chhattisgarh,4.6
+2017,Delhi,4.6
+2017,Goa,4.6
+2017,Gujarat,4.6
+2017,Haryana,4.6
+2017,Himachal Pradesh,4.6
+2017,Jammu and Kashmir,4.6
+2017,Jharkhand,4.6
+2017,Karnataka,4.6
+2017,Kerala,4.6
+2017,Ladakh,4.6
+2017,Madhya Pradesh,4.6
+2017,Maharashtra,4.6
+2017,Manipur,4.6
+2017,Meghalaya,4.6
+2017,Mizoram,4.6
+2017,Nagaland,4.6
+2017,Odisha,4.6
+2017,Punjab,4.6
+2017,Rajasthan,4.6
+2017,Sikkim,4.6
+2017,Tamil Nadu,4.6
+2017,Telangana,4.6
+2017,Tripura,4.6
+2017,Uttar Pradesh,4.6
+2017,Uttarakhand,4.6
+2017,West Bengal,4.6
+2018,Andhra Pradesh,5
+2018,Arunachal Pradesh,5
+2018,Assam,5
+2018,Bihar,5
+2018,Chhattisgarh,5
+2018,Delhi,5
+2018,Goa,5
+2018,Gujarat,5
+2018,Haryana,5
+2018,Himachal Pradesh,5
+2018,Jammu and Kashmir,5
+2018,Jharkhand,5
+2018,Karnataka,5
+2018,Kerala,5
+2018,Ladakh,5
+2018,Madhya Pradesh,5
+2018,Maharashtra,5
+2018,Manipur,5
+2018,Meghalaya,5
+2018,Mizoram,5
+2018,Nagaland,5
+2018,Odisha,5
+2018,Punjab,5
+2018,Rajasthan,5
+2018,Sikkim,5
+2018,Tamil Nadu,5
+2018,Telangana,5
+2018,Tripura,5
+2018,Uttar Pradesh,5
+2018,Uttarakhand,5
+2018,West Bengal,5
+2019,Andhra Pradesh,13.5
+2019,Arunachal Pradesh,13.9
+2019,Assam,11.6
+2019,Bihar,11.1
+2019,Chhattisgarh,10.7
+2019,Delhi,11.6
+2019,Goa,11
+2019,Gujarat,8.9
+2019,Haryana,10.3
+2019,Himachal Pradesh,11.4
+2019,Jammu and Kashmir,11.6
+2019,Jharkhand,11.4
+2019,Karnataka,10.7
+2019,Kerala,14.2
+2019,Ladakh,11.6
+2019,Madhya Pradesh,12.2
+2019,Maharashtra,11.1
+2019,Manipur,12.7
+2019,Meghalaya,12.2
+2019,Mizoram,13.5
+2019,Nagaland,12.7
+2019,Odisha,10.5
+2019,Punjab,9.9
+2019,Rajasthan,9.9
+2019,Sikkim,12.4
+2019,Tamil Nadu,12.3
+2019,Telangana,12.8
+2019,Tripura,11.6
+2019,Uttar Pradesh,10.9
+2019,Uttarakhand,10.7
+2019,West Bengal,11.9
+2020,Andhra Pradesh,4.6
+2020,Arunachal Pradesh,4.9
+2020,Assam,5
+2020,Bihar,5.4
+2020,Chhattisgarh,5.5
+2020,Delhi,5.3
+2020,Goa,5.4
+2020,Gujarat,5.8
+2020,Haryana,5.4
+2020,Himachal Pradesh,5.4
+2020,Jammu and Kashmir,5.3
+2020,Jharkhand,5.4
+2020,Karnataka,5.2
+2020,Kerala,5.4
+2020,Ladakh,5.3
+2020,Madhya Pradesh,5.7
+2020,Maharashtra,5.6
+2020,Manipur,5.1
+2020,Meghalaya,5.2
+2020,Mizoram,5.2
+2020,Nagaland,5.1
+2020,Odisha,5.6
+2020,Punjab,5.5
+2020,Rajasthan,5.4
+2020,Sikkim,5.2
+2020,Tamil Nadu,5.4
+2020,Telangana,5.1
+2020,Tripura,5.2
+2020,Uttar Pradesh,5.8
+2020,Uttarakhand,5.5
+2020,West Bengal,5.6
+2021,Andhra Pradesh,5
+2021,Arunachal Pradesh,5
+2021,Assam,5
+2021,Bihar,5.3
+2021,Chhattisgarh,5.3
+2021,Delhi,5.1
+2021,Goa,5.2
+2021,Gujarat,5.3
+2021,Haryana,5.3
+2021,Himachal Pradesh,5.1
+2021,Jammu and Kashmir,5.1
+2021,Jharkhand,5.2
+2021,Karnataka,5.1
+2021,Kerala,4.8
+2021,Ladakh,5.1
+2021,Madhya Pradesh,5
+2021,Maharashtra,5
+2021,Manipur,5
+2021,Meghalaya,5
+2021,Mizoram,5
+2021,Nagaland,5.1
+2021,Odisha,5.1
+2021,Punjab,5.1
+2021,Rajasthan,5.1
+2021,Sikkim,5.1
+2021,Tamil Nadu,5.1
+2021,Telangana,5.1
+2021,Tripura,5
+2021,Uttar Pradesh,5.1
+2021,Uttarakhand,5.2
+2021,West Bengal,5.1
+2022,Andhra Pradesh,6.8
+2022,Arunachal Pradesh,6.7
+2022,Assam,6.9
+2022,Bihar,6.8
+2022,Chhattisgarh,6.7
+2022,Delhi,6.8
+2022,Goa,6.8
+2022,Gujarat,7
+2022,Haryana,6.9
+2022,Himachal Pradesh,6.8
+2022,Jammu and Kashmir,6.8
+2022,Jharkhand,6.9
+2022,Karnataka,6.8
+2022,Kerala,6.7
+2022,Ladakh,6.8
+2022,Madhya Pradesh,6.9
+2022,Maharashtra,7
+2022,Manipur,6.8
+2022,Meghalaya,6.7
+2022,Mizoram,6.8
+2022,Nagaland,6.9
+2022,Odisha,6.8
+2022,Punjab,6.9
+2022,Rajasthan,7
+2022,Sikkim,6.8
+2022,Tamil Nadu,6.9
+2022,Telangana,6.8
+2022,Tripura,6.9
+2022,Uttar Pradesh,7
+2022,Uttarakhand,6.9
+2022,West Bengal,6.8
+2023,Andhra Pradesh,5.7
+2023,Arunachal Pradesh,5.8
+2023,Assam,5.9
+2023,Bihar,5.8
+2023,Chhattisgarh,5.7
+2023,Delhi,5.8
+2023,Goa,5.8
+2023,Gujarat,6
+2023,Haryana,5.9
+2023,Himachal Pradesh,5.8
+2023,Jammu and Kashmir,5.8
+2023,Jharkhand,5.9
+2023,Karnataka,5.8
+2023,Kerala,5.7
+2023,Ladakh,5.8
+2023,Madhya Pradesh,5.9
+2023,Maharashtra,6
+2023,Manipur,5.8
+2023,Meghalaya,5.7
+2023,Mizoram,5.8
+2023,Nagaland,5.9
+2023,Odisha,5.8
+2023,Punjab,5.9
+2023,Rajasthan,6
+2023,Sikkim,5.8
+2023,Tamil Nadu,5.9
+2023,Telangana,5.8
+2023,Tripura,5.9
+2023,Uttar Pradesh,6
+2023,Uttarakhand,5.9
+2023,West Bengal,5.8
